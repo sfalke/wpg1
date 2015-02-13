@@ -4,3 +4,5 @@ Repository to the WPG-Lecture
 Hier sind alle Dateien zur Vorlesung Web-/Publishing Grundlagen 1.
 
 Neue Dateien werden regelmäßig gepflegt.
+
+End of File
